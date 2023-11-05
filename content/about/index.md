@@ -29,7 +29,7 @@ math:
 
 <p align="center">La cucina è la mia passione e il modo di esprimere la mia personalità. </p>
 
-<p align="center">Vuoi dare un'occhiata al mio CV? Clicca qui <a href="https://github.com/AleG03/resume/releases/latest/download/AlessandroGallo_CV.pdf"><strong>CV</strong></a>!</p>
+<p align="center">Vuoi dare un'occhiata al mio CV? Clicca qui <a href="https://drive.google.com/file/d/1Ma_jg8JS_XUzrN3kQj-ZpHA033bjPTVC/view?usp=drivesdk"><strong>CV</strong></a>!</p>
 <p align="center">Oppure vuoi contattarmi? Scrivimi a giorgiaspina11@gmail.com </p>
 
 ---
