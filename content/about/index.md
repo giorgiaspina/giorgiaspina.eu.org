@@ -23,20 +23,13 @@ math:
 
 <h1 style="text-align: center;">About Me</h1>
 
-
-
-Mi piace descrivere me stessa come una ragazza solare e ambiziosa, che ama la vita e i suoi sogni. Lavoro in cucina da diversi anni e mi diverto a preparare piatti gustosi e originali. Sono precisa e creativa, mi piace sperimentare nuovi sapori e combinazioni. La cucina è la mia passione e il modo di esprimere la mia personalità.
-
-contatti: spinagiorgia11@gmail.com
-
-
-
 <p align="center">Mi piace descrivere me stessa come una ragazza solare e ambiziosa, che ama la vita e i suoi sogni. </p>
 
 <p align="center">Lavoro in cucina da diversi anni e mi diverto a preparare piatti gustosi e originali. Sono precisa e creativa, mi piace sperimentare nuovi sapori e combinazioni. </p>
 
 <p align="center">La cucina è la mia passione e il modo di esprimere la mia personalità. </p>
 
-<p align="center">contatti: spinagiorgia11@gmail.com</p>
+<p align="center">Vuoi dare un'occhiata al mio CV? Clicca qui <a href="https://github.com/AleG03/resume/releases/latest/download/AlessandroGallo_CV.pdf"><strong>CV</strong></a>!</p>
+<p align="center">Oppure vuoi contattarmi? Scrivimi a giorgiaspina11@gmail.com </p>
 
 ---

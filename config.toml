@@ -186,7 +186,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "GiorgiaSpina"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "*Uno non può pensare bene, amare bene, dormire bene se non ha mangiato bene.*"
+      subtitle = "Uno non può pensare bene, amare bene, dormire bene se non ha mangiato bene."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -207,7 +207,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     GitHub = ""
     Linkedin = "giorgia-spina-2a268a230"
     Twitter = ""
-    Instagram = "@magna.che.passa"
+    Instagram = "magna.che.passa"
     Facebook = ""
     Telegram = ""
     Medium = ""
