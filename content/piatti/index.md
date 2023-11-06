@@ -54,7 +54,7 @@ math:
 
 {{< image src="/images/crostatine.jpg" caption="Crostatine di crema pasticcera e fragole" >}}
 
-{{< image src="/images/dolce-1.jpg" caption="Baccala mantecato con barbabietola e pane guttiau fritto" >}}
+{{< image src="/images/dolce-1.jpg" caption="Baccala mantecato con barbabietola glassata e pane guttiau fritto" >}}
 
 {{< image src="/images/frolla-con-marmellata.jpg" caption="Tacos di frolla con marmellata e nocciola" >}}
 
@@ -68,7 +68,7 @@ math:
 
 {{< image src="/images/pasticcino.jpg" caption="Mini Brownie al cocco e cioccolato bianco" >}}
 
-{{< image src="/images/pesce-scaled.jpg" caption="Filetto di pesce al forno con carciofi, pomodirini ed erbette" >}}
+{{< image src="/images/pesce-scaled.jpg" caption="Filetto di pesce cotto a bassa temperatura con carciofi, pomodorini ed erbette" >}}
 
 {{< image src="/images/piccola_pasticceria.jpg" caption="Fantasia di mignon" >}}
 
