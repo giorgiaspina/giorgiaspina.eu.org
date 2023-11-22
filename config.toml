@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.giorgiaspina.eu.org"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -470,7 +470,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Page SEO config
     [params.page.seo]
       # image URL
-      images = [ "/images/NicolaMassarenti.jpg"]
+      images = [ "/images/Giorgia_Spina.jpg"]
       # Publisher info
       [params.page.seo.publisher]
         name = ""
